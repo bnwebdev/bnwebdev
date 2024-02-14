@@ -2,8 +2,6 @@
 
 I`m Nikita, a full-stack JavaScript developer from Ukraine
 
----
-
 ## About me
 
 I have 4 years of experience in software development.
