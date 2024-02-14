@@ -64,8 +64,8 @@ I always pay great attention to code quality, solution reliability, security, an
         >PRIMARY_LANGUAGES</span>)
     </div>
     <div class="output console-row">(2) [
-        <span class="string">'JavaScript'<span>,
-        <span class="string">'TypeScript'<span>
+        <span style="color: #4af">'JavaScript'<span>,
+        <span style="color: #4af">'TypeScript'<span>
     ]
     </div>
     <!-- CLIENT-SIDE & MOBILE -->
@@ -77,15 +77,15 @@ I always pay great attention to code quality, solution reliability, security, an
         >CLIENT_SIDE_AND_MOBILE</span>)
     </div>
     <div class="output console-row">(9) [
-        <span class="string">'React'</span>,
-        <span class="string">'ReactNative'</span>,
-        <span class="string">'Expo'</span>,
-        <span class="string">'Next.js'</span>,
-        <span class="string">'Redux'</span>,
-        <span class="string">'Redux-Saga'</span>,
-        <span class="string">'Handlebars'</span>,
-        <span class="string">'Astro'</span>,
-        <span class="string">'Apollo GraphQL'</span>
+        <span style="color: #4af">'React'</span>,
+        <span style="color: #4af">'ReactNative'</span>,
+        <span style="color: #4af">'Expo'</span>,
+        <span style="color: #4af">'Next.js'</span>,
+        <span style="color: #4af">'Redux'</span>,
+        <span style="color: #4af">'Redux-Saga'</span>,
+        <span style="color: #4af">'Handlebars'</span>,
+        <span style="color: #4af">'Astro'</span>,
+        <span style="color: #4af">'Apollo GraphQL'</span>
     ]
     </div>
     <!-- USER INTERFACE -->
@@ -97,16 +97,16 @@ I always pay great attention to code quality, solution reliability, security, an
         >USER_INTERFACE</span>)
     </div>
     <div class="output console-row">(10) [
-        <span class="string">'HTML'</span>,
-        <span class="string">'CSS'</span>,
-        <span class="string">'SASS/SCSS'</span>,
-        <span class="string">'Ant Design'</span>,
-        <span class="string">'Material UI'</span>,
-        <span class="string">'Native Base'</span>,
-        <span class="string">'Gluestack UI'</span>,
-        <span class="string">'Bootstrap'</span>,
-        <span class="string">'React Email'</span>,
-        <span class="string">'Tailwind CSS'</span>
+        <span style="color: #4af">'HTML'</span>,
+        <span style="color: #4af">'CSS'</span>,
+        <span style="color: #4af">'SASS/SCSS'</span>,
+        <span style="color: #4af">'Ant Design'</span>,
+        <span style="color: #4af">'Material UI'</span>,
+        <span style="color: #4af">'Native Base'</span>,
+        <span style="color: #4af">'Gluestack UI'</span>,
+        <span style="color: #4af">'Bootstrap'</span>,
+        <span style="color: #4af">'React Email'</span>,
+        <span style="color: #4af">'Tailwind CSS'</span>
     ]
     </div>
     <!-- SERVER-SIDE -->
@@ -118,10 +118,10 @@ I always pay great attention to code quality, solution reliability, security, an
         >SERVER_SIDE</span>)
     </div>
     <div class="output console-row">(4) [
-        <span class="string">'Node.js'</span>,
-        <span class="string">'Express'</span>,
-        <span class="string">'NestJS'</span>,
-        <span class="string">'GraphQL'</span>
+        <span style="color: #4af">'Node.js'</span>,
+        <span style="color: #4af">'Express'</span>,
+        <span style="color: #4af">'NestJS'</span>,
+        <span style="color: #4af">'GraphQL'</span>
     ]
     </div>
     <!-- TESTING LIBRARIES -->
@@ -133,8 +133,8 @@ I always pay great attention to code quality, solution reliability, security, an
         >TESTING_LIBRARIES</span>)
     </div>
     <div class="output console-row">(2) [
-        <span class="string">'Jest'</span>,
-        <span class="string">'React Testing Library'</span>
+        <span style="color: #4af">'Jest'</span>,
+        <span style="color: #4af">'React Testing Library'</span>
     ]
     </div>
     <!-- DATABASES -->
@@ -146,12 +146,12 @@ I always pay great attention to code quality, solution reliability, security, an
         >DATABASES</span>)
     </div>
     <div class="output console-row">(6) [
-        <span class="string">'PostgreSQL'</span>,
-        <span class="string">'MySQL'</span>,
-        <span class="string">'MongoDB'</span>,
-        <span class="string">'Firebase Realtime Database'</span>,
-        <span class="string">'Firebase Cloud Firestore'</span>,
-        <span class="string">'Redis'</span>
+        <span style="color: #4af">'PostgreSQL'</span>,
+        <span style="color: #4af">'MySQL'</span>,
+        <span style="color: #4af">'MongoDB'</span>,
+        <span style="color: #4af">'Firebase Realtime Database'</span>,
+        <span style="color: #4af">'Firebase Cloud Firestore'</span>,
+        <span style="color: #4af">'Redis'</span>
     ]
     </div>
     <!-- ORMs -->
@@ -163,10 +163,10 @@ I always pay great attention to code quality, solution reliability, security, an
         >ORMS</span>)
     </div>
     <div class="output console-row">(4) [
-        <span class="string">'TypeORM'</span>,
-        <span class="string">'Mongoose'</span>,
-        <span class="string">'Knex'</span>,
-        <span class="string">'Sequelize'</span>
+        <span style="color: #4af">'TypeORM'</span>,
+        <span style="color: #4af">'Mongoose'</span>,
+        <span style="color: #4af">'Knex'</span>,
+        <span style="color: #4af">'Sequelize'</span>
     ]
     </div>
     <!-- BUILD TOOLS -->
@@ -178,9 +178,9 @@ I always pay great attention to code quality, solution reliability, security, an
         >BUILD_TOOLS</span>)
     </div>
     <div class="output console-row">(3) [
-        <span class="string">'Webpack'</span>,
-        <span class="string">'Turborepo'</span>,
-        <span class="string">'Tsup'</span>
+        <span style="color: #4af">'Webpack'</span>,
+        <span style="color: #4af">'Turborepo'</span>,
+        <span style="color: #4af">'Tsup'</span>
     ]
     </div>
     <!-- CI & CONTAINERIZATION -->
@@ -192,8 +192,8 @@ I always pay great attention to code quality, solution reliability, security, an
         >CI_AND_CONTAINERIZATION</span>)
     </div>
     <div class="output console-row">(2) [
-        <span class="string">'Docker'</span>,
-        <span class="string">'Github Actions'</span>
+        <span style="color: #4af">'Docker'</span>,
+        <span style="color: #4af">'Github Actions'</span>
     ]
     </div>
     <!-- CLOUD SOLUTIONS -->
@@ -205,8 +205,8 @@ I always pay great attention to code quality, solution reliability, security, an
         >CLOUD_SOLUTIONS</span>)
     </div>
     <div class="output console-row">(2) [
-        <span class="string">'Google Cloud'</span>,
-        <span class="string">'AWS'</span>
+        <span style="color: #4af">'Google Cloud'</span>,
+        <span style="color: #4af">'AWS'</span>
     ]
     </div>
     <!-- PAYMENT SYSTEMS -->
@@ -218,8 +218,8 @@ I always pay great attention to code quality, solution reliability, security, an
         >PAYMENT_SYSTEMS</span>)
     </div>
     <div class="output console-row">(2) [
-        <span class="string">'Stripe'</span>,
-        <span class="string">'MangoPay'</span>
+        <span style="color: #4af">'Stripe'</span>,
+        <span style="color: #4af">'MangoPay'</span>
     ]
     </div>
 </div>
