@@ -14,11 +14,9 @@ I always pay great attention to code quality, solution reliability, security, an
 ## Technologies' logs
 
 ```typescript
-// PRIMARY_LANGUAGES
-console.log(["JavaScript", "TypeScript"]);
+console.log("PRIMARY_LANGUAGES", ["JavaScript", "TypeScript"]);
 
-// CLIENT_SIDE_AND_MOBILE
-console.log([
+console.log("CLIENT_SIDE_AND_MOBILE", [
   "React",
   "ReactNative",
   "Expo",
@@ -30,8 +28,7 @@ console.log([
   "Apollo GraphQL",
 ]);
 
-// USER_INTERFACE
-console.log([
+console.log("USER_INTERFACE", [
   "HTML",
   "CSS",
   "SASS/SCSS",
@@ -44,24 +41,17 @@ console.log([
   "Tailwind CSS",
 ]);
 
-// SERVER_SIDE
-console.log(["Node.js", "Express", "NestJS", "GraphQL"]);
+console.log("SERVER_SIDE", ["Node.js", "Express", "NestJS", "GraphQL"]);
 
-// TESTING_LIBRARIES
-console.log(["Jest", "React Testing Library"]);
+console.log("TESTING_LIBRARIES", ["Jest", "React Testing Library"]);
 
-// ORMs
-console.log(["TypeORM", "Mongoose", "Knex", "Sequelize"]);
+console.log("ORMs", ["TypeORM", "Mongoose", "Knex", "Sequelize"]);
 
-// BUILD_TOOLS
-console.log(["Webpack", "Turborepo", "Tsup"]);
+console.log("BUILD_TOOLS", ["Webpack", "Turborepo", "Tsup"]);
 
-// CI_AND_CONTAINERIZATION
-console.log(["Docker", "Github Actions"]);
+console.log("CI_AND_CONTAINERIZATION", ["Docker", "Github Actions"]);
 
-// CLOUD_SOLUTIONS
-console.log(["Google Cloud", "AWS"]);
+console.log("CLOUD_SOLUTIONS", ["Google Cloud", "AWS"]);
 
-// PAYMENT_SYSTEMS
-console.log(["Stripe", "MangoPay"]);
+console.log("PAYMENT_SYSTEMS", ["Stripe", "MangoPay"]);
 ```
